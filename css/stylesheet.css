@@ -50,9 +50,17 @@ img {
   padding: 0 40px;
 }
 
+.navbar .flex {
+  justify-content: space-between;
+}
+
+.navbar .ul {
+  display: flex;
+}
+
 .flex {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   height: 100%;
 }

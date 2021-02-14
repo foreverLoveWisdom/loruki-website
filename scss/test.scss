@@ -1,0 +1,10 @@
+$base-font-size: 16px;
+
+body {
+  font-size: $base-font-size;
+  width: 100%;
+
+  .containter {
+    background-color: green;
+  }
+}
